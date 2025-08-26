@@ -1,5 +1,3 @@
-# StringStorage
-
 # StringStorage Smart Contract
 
 A secure string storage smart contract built with Solidity that allows only the owner to write data while enabling public read access.
